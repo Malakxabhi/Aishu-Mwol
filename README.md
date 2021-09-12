@@ -21,14 +21,14 @@ Project created by <a href="https://github.com/Vasudevxmarco/Aishu-Mwol">Marco X
 
 ----
 
-  <p align="center">
-  <a href="httsp://github.com/ameer-kallumthodi/pikachu">
-    <img src="https://img.shields.io/github/repo-size/Hisham-muhammed/Sophia?color=green&label=Repo%20total%20size&style=plastic">
+   <p align="center">
+  <a href="https://github.com/Vasudevxmarco/Aishu-Mwol">
+    <img src="https://img.shields.io/github/repo-size/Vasudevxmarco/Aishu-Mwol?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/ameer-kallumthodi/followers"><img title="Followers" src="https://img.shields.io/github/followers/Hisham-muhammed?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Hisham-muhammed/Sophia-1?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Hisham-muhammed/sophia-1?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Hisham-muhammed/Sophia-1?label=Watchers&color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/Vasudevxmarco/Aishu-Mwol"><img title="Followers" src="https://img.shields.io/github/followers/Vasudevxmarco?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/Vasudevxmarco/Aishu-Mwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Vasudevxmarco/Aishu-Mwol?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/Vasudevxmarco/Aishu-Mwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Vasudevxmarco/Aishu-Mwol?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/Vasudevxmarco/Aishu-Mwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Vasudevxmarco/Aishu-Mwol?label=Watchers&color=f7df1e&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-f7df1e.svg"</a>
 </p>
 
