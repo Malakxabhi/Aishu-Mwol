@@ -50,14 +50,14 @@ Project created by <a href="https://github.com/Vasudevxmarco/Aishu-Mwol">Marco X
 
 
 
-## ðŸ“¢ Guide
-Click WA logo to Join Support Group ðŸ‘‡
+##  Guide
+Click WA logo to Join Support Group 
     <br>
 <br>
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/JzmVhujqeK71bLDOYyA6oS)
 
 ## 
-  <h3 align="center">ðŸ“¢ Support Group 2:</h3>
+  <h3 align="center"> Support Group 2:</h3>
 <p align="center">
 Click Sophia logo to Join Support Group 2ðŸ‘‡
     <br>
