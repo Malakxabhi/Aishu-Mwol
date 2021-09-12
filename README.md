@@ -8,7 +8,7 @@ Simple whatsapp bot | Reedited from whatsasena
 <a href="#"><img title="Sophia" src="https://img.shields.io/badge/-Devu%20Mwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Hisham-muhammed"><img title="Author" src="https://img.shields.io/badge/AUTHOR-MARCO-green/Aishu-Mwol?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Hisham-muhammed"><img title="Author" src="https://img.shields.io/badge/-Devu%20Mwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 </div>
 <p align="center">
