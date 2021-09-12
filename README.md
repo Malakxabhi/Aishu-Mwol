@@ -121,7 +121,8 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
     
 
-  [![Fake-Bean](https://github.com/Fake-bean.png?size=200)](https://github.com/Fake-bean) |  [![FAKE-CARLO](https://github.com/Fakecarlo.png?size=200)](https://github.com/Fakecarlo) 
+  [![Marco X Kid](https://github.com/Vasudevxmarco.png?size=200)](https://github.com/Vasudevxmarco) | [![Marco X Kid](https://github.com/Vasudevxmarco.png?size=200)](https://github.com/Vasudevxmarco)
+  
 ----|----
 
 [Fake-Bean](https://github.com/Fake-bean)  | [CARLO](https://github.com/Fakecarlo) 
