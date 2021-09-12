@@ -57,9 +57,9 @@ Click WA logo to Join Support Group
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/JzmVhujqeK71bLDOYyA6oS)
 
 ## 
-  <h3 align="center"> Support Group 2:</h3>
+  <h3 align="center"> To Contact me:</h3>
 <p align="center">
-Click Sophia logo to Join Support Group 2ðŸ‘‡
+Click My Logo to connect with me
     <br>
 <br>
   <a href="https://wa.me/917012541567" target="blank"><img align="center" src="https://i.ibb.co/6vbsQ5c/IMG-20210912-082646-841.webp" alt="kyrie.baran" height="200" width="200" /></a>
