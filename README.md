@@ -14,7 +14,7 @@ Simple whatsapp bot | Reedited from whatsasena
 <p align="center">
 Project created by <a href="https://github.com/Vasudevxmarco/Aishu-Mwol">Marco X Kid</a> to make it public
     <br>
-       | Â© |
+       | © |
         Reserved |
     <br> 
 </p>
