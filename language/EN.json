@@ -27,17 +27,17 @@
         },
         "admin": {
             "BAN_DESC": "Ban someone in the group. Reply to message or tag a person to use command.",
-            "IM_NOT_ADMIN": "*njan admin alla macha☹️*",
+            "IM_NOT_ADMIN": "*njan admin alla mwone☹️*",
             "BANNED": "Mwonu Ok Bie!",
             "GIVE_ME_USER": "*arelum mention chey😈!*",
             "ADD_DESC": "Adds someone to the group.",
             "ADDED": "added to the group!",
-            "ALREADY_PROMOTED": "```Avan admin anu nenpa🙃```",
-            "PROMOTED": "```admin role was given!```",
-            "PROMOTE_DESC": "Makes any person an admin.",
+            "ALREADY_PROMOTED": "```Avan admin anu mwone🙃```",
+            "PROMOTED": "```admin role koduthu tto!```",
+            "PROMOTE_DESC": "admin akan olla command anne tto.",
             "DEMOTE_DESC": "Takes the authority of any admin.",
-            "ALREADY_NOT_ADMIN": "```How can I make someone admin who is already admin?```",
-            "DEMOTED": "```, has been demoted!```",
+            "ALREADY_NOT_ADMIN": "```Admin ayye alle engana pinnem admin akka?```",
+            "DEMOTED": "```, Member akkanne tto!```",
             "MUTE_DESC": "Mute the group chat. Only the admins can send a message.",
             "MUTED": "```Group chat muted!```",
             "UNMUTE_DESC": "Unmute the group chat. Anyone can send a message.",
@@ -222,8 +222,8 @@
             "IMG": "```nan Chithrangal upload cheyyunu 😌 kanan ready aayikko ``` *{}* ```number``` *{}*"
         },
         "sticker": {
-            "STICKER_DESC": "It converts your replied photo or video to sticker.",
-            "NEED_REPLY": "*Reply to a photo or video!*",
+            "STICKER_DESC": "Photo alel video tha sticker akki thera njan .",
+            "NEED_REPLY": "*Oru photo mention vechu cheyyavo!*",
             "DOWNLOADING": "```Sticker.. aaki. tharunnu 🤠```"
         },
         "system_stats": {
@@ -235,15 +235,15 @@
             "ADMİN": "*I am not admin in this group!*"
         },
         "updater": {
-            "UPDATER_DESC": "Checks the update.",
-            "UPDATE": "*Nan ippol thanne update aanallo machaa..!*",
-            "NEW_UPDATE": "* Sophiak k update cheyyan und 😊*\n\n please ask support group before updating. Otherwise chance to get errors. supportgrouplink: https://chat.whatsapp.com/Kne4KggCeYoE9vIc6iZLZJ \n\nChanges:\n```",
+            "UPDATER_DESC": "nokkate update cheyyan indo nne.",
+            "UPDATE": "*Nan ippol thanne update aanallo Mwone..!*",
+            "NEW_UPDATE": "* Aishu ne update cheyyan und 😊*\n\n please ask support group before updating. Otherwise chance to get errors. supportgrouplink: https://chat.whatsapp.com/JzmVhujqeK71bLDOYyA6oS \n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "```Update aakunnu, wait few minutes ..🧚‍♂️```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
-            "UPDATED": "*Update. aaki.. monuse😌 🤠✅*",
-            "UPDATED_LOCAL": "*✅ Successfully Updated!*",
-            "AFTER_UPDATE": "*😎 SOPHIA Restarting*"
+            "UPDATED": "*Update. aaki.. mwone😌 🤠✅*",
+            "UPDATED_LOCAL": "*✅ Update akkind tto mwone!*",
+            "AFTER_UPDATE": "*😎 Aishu Restart avanne tto*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
@@ -338,7 +338,7 @@
             "MP4TOAUDİO": "```Converting Video to Audio..```",
             "STİCKER_DESC": "Converts the sticker to a photo.",
             "STİCKER_NEEDREPLY": "*Photokk Reply ayitt ayakk*",
-            "STİCKER": "```Converting...```",
+            "STİCKER": "```Sticker akkate mwone...```",
             "XMEDİA_DESC": "It is a plugin with more than 25 media tools.",
             "T_FALSE": "```❌ Incorrect Blend Effect Entered!```\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
             "T_NOT": "```💭 You Need To Enter Any Blend Effects!\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
@@ -536,7 +536,7 @@
             "ARAT": "Searched Song:"
         },
         "github": {
-            "GİTHUB_DESC": "Collects github information from the given username.\n⌨️ Example: .github phaticusthiccy",
+            "GİTHUB_DESC": "Collects github information from the given username.\n⌨️ Example: .github Vasudevxmarco",
             "REPLY": "```You Need To Type Any Username!```",
             "NOT": "```User not found!```",
             "FOLLOWERS": "Followers:",
