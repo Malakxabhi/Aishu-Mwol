@@ -8,7 +8,7 @@ Simple whatsapp bot | Reedited from whatsasena
 <a href="#"><img title="Sophia" src="https://img.shields.io/badge/-Devu%20Mwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Vasudevxmarco"><img title="Author" src="https://img.shields.io/badge/AUTHOR-MARCO-green?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/917012541567"><img title="Author" src="https://img.shields.io/badge/AUTHOR-MARCO-green?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -54,7 +54,7 @@ Project created by <a href="https://github.com/Vasudevxmarco/Aishu-Mwol">Marco X
 Click WA logo to Join Support Group ðŸ‘‡
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/CYGahR3hC1DHq44n4ri5J6)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/JzmVhujqeK71bLDOYyA6oS)
 
 ## 
   <h3 align="center">ðŸ“¢ Support Group 2:</h3>
@@ -62,7 +62,7 @@ Click WA logo to Join Support Group ðŸ‘‡
 Click Sophia logo to Join Support Group 2ðŸ‘‡
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/Kne4KggCeYoE9vIc6iZLZJ" target="blank"><img align="center" src="https://i.imgur.com/1CjbIG8.jpeg" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://wa.me/917012541567" target="blank"><img align="center" src="https://i.ibb.co/6vbsQ5c/IMG-20210912-082646-841.webp" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
