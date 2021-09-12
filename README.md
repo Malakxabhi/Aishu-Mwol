@@ -5,7 +5,7 @@ Simple whatsapp bot | Reedited from whatsasena
 <div align="center">
   <img border-radius: 15px src="https://i.ibb.co/YPdtw2X/20210912-093116.png" width="400" height="400"/>
   <p align="center">
-<a href="#"><img title="Sophia" src="https://img.shields.io/badge/Sophia-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Sophia" src="https://img.shields.io/badge/-Devu%20Mwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/Hisham-muhammed"><img title="Author" src="https://img.shields.io/badge/AUTHOR-MARCO-green/Aishu-Mwol?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
