@@ -123,8 +123,8 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
   [![Marco X Kid](https://github.com/Vasudevxmarco.png?size=200)](https://github.com/Vasudevxmarco) | [![Marco X Kid](https://github.com/Vasudevxmarco.png?size=200)](https://github.com/Vasudevxmarco)
  ----|----
-[Fake-Bean](https://github.com/Fake-bean)  | [CARLO](https://github.com/Fakecarlo) 
-Developer & Owner |Developer
+[MarcoXD](https://github.com/Vasudevxmarco)  | [MarcoXD](https://github.com/Fakecarlo) 
+Developer & Owner |Support & Helper
 
   </div>
 
