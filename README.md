@@ -1,4 +1,4 @@
-# Sophia
+# Aishu-Mwol
 Simple whatsapp bot | Reedited from whatsasena 
 
 
