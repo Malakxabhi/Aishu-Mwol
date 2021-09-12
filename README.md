@@ -116,12 +116,19 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ```
 
 ## Developers
+
   <div align="center">
+
     
-  [![ameer-kallumthodi](https://github.com/ameer-kallumthodi.png?size=100)](https://github.com/ameer-kallumthodi) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) 
+
+  [![Fake-Bean](https://github.com/Fake-bean.png?size=200)](https://github.com/Fake-bean) |  [![FAKE-CARLO](https://github.com/Fakecarlo.png?size=200)](https://github.com/Fakecarlo) | [![Malak X Abhi](https://github.com/Malakxabhi.png?size=200)](https://github.com/Malakxabhi) 
+
 ----|----|----
-[ameer-kallumthodi](https://github.com/ameer-kallumthodi)  | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2)
-Base, Bug Fixes, Modules |Â Modifiying  as   public, Bug Fixes, Modules| Bug Fixes, Modules
+
+[Fake-Bean](https://github.com/Fake-bean)  | [CARLO](https://github.com/Fakecarlo) | [Malak x Abhi](https://github.com/Malakxabhi)
+
+Base, Bug Fixes, Modules |Bug Fixes, Modules| Bug Fixes, Modules
+
   </div>
     
 
