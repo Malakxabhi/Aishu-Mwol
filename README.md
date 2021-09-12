@@ -8,11 +8,11 @@ Simple whatsapp bot | Reedited from whatsasena
 <a href="#"><img title="Sophia" src="https://img.shields.io/badge/-Devu%20Mwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Hisham-muhammed"><img title="Author" src="https://img.shields.io/badge/AUTHOR-MARCO-green?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Vasudevxmarco"><img title="Author" src="https://img.shields.io/badge/AUTHOR-MARCO-green?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Hisham-Muhammed/Sophia-Mwol">Hisham-muhammed</a> to make it public
+Project created by <a href="https://github.com/Vasudevxmarco/Aishu-Mwol">Marco X Kid</a> to make it public
     <br>
        | Â© |
         Reserved |
