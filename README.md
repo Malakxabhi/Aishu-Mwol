@@ -130,8 +130,6 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 Base, Bug Fixes, Modules |Bug Fixes, Modules| Bug Fixes, Modules
 
   </div>
-    
-
 
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
