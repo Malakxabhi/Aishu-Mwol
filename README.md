@@ -121,9 +121,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
     
 
-  [![Marco X Kid](https://github.com/Vasudevxmarco.png?size=200)](https://github.com/Vasudevxmarco) | [![Marco X Kid](https://github.com/Vasudevxmarco.png?size=200)](https://github.com/Vasudevxmarco)
+  [![Marco X Kid](https://github.com/Vasudevxmarco.png?size=200)](https://github.com/Vasudevxmarco) | [![Hisham-Muhammad](https://github.com/Hisham-Muhammed.png?size=200)](https://github.com/Vasudevxmarco)
  ----|----
-[MarcoXD](https://github.com/Vasudevxmarco)  | [MarcoXD](https://github.com/Fakecarlo) 
+[MarcoXD](https://github.com/Vasudevxmarco)  | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) 
 Developer & Owner |Support & Helper
 
   </div>
